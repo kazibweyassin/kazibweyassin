@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kazibweyassin
 - 👀 I’m interested in data analytcs  and software engineering 
-- - 💞️ I’m looking to collaborate on data analysis
+- - 💞️ I’m looking to collaborate on complex and fun data analysis projects
 - 📫 How to reach me +256704833021
 
 <!---
