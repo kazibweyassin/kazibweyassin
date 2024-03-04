@@ -2,6 +2,7 @@
 - 👀 I’m interested a data analyst and front-end software engineer
 - - 💞️ I’m looking to collaborate on complex and fun data analysis projects
 - 📫 How to reach me +256759123249
+- See more at https://yassinkazibwe.com/
 
 <!---
 kazibweyassin/kazibweyassin is a ✨ special ✨ repository because its `README.md` (this ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b](https://github.com/kazibweyassin/kazibweyassin/assets/111964624/b469ec60-ce48-4deb-b12d-20e476976d28)
