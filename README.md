@@ -1,5 +1,5 @@
 👋 Hi, I’m Yassin
-- 👀 I’m a Data Analyst and Front-End Software Engineer
+- 👀 Fullstack Software Engineer
 - - 💞️ I’m looking to collaborate on complex and fun data analysis and software development projects.
 - 📫 How to reach me +256759123249
 - See more at https://yassinkazibwe.com/
