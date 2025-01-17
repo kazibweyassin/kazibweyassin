@@ -1,19 +1,38 @@
-👋 Hi, I’m Yassin
-- 👀 Fullstack Software Engineer
-- - 💞️ I’m looking to collaborate on complex and fun data analysis and software development projects.
-- 📫 How to reach me +256759123249
-- See more at https://yassinkazibwe.com/
+# Hi there, I'm Kazibwe Yassin 👋
 
-<!---
-kazibweyassin/kazibweyassin is a ✨ special ✨ repository because its `README.md` (this ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b](https://github.com/kazibweyassin/kazibweyassin/assets/111964624/b469ec60-ce48-4deb-b12d-20e476976d28)
-file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c266c6f676f436f6c6f723d7768697465](https://github.com/kazibweyassin/kazibweyassin/assets/111964624/82d07673-eb62-4965-b81d-430f3511e300)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b](https://github.com/kazibweyassin/kazibweyassin/assets/111964624/28fc2aaa-697f-4810-9ee2-a16dd71c16a8)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465](https://github.com/kazibweyassin/kazibweyassin/assets/111964624/09640ddb-6363-475c-85d3-3990d59c22dd)
-![python-logo-only](https://github.com/kazibweyassin/kazibweyassin/assets/111964624/a39ea00d-ff86-4274-ad81-0c41b888dba1)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/kazibweyassin/kazibweyassin/assets/111964624/96262205-e720-46e6-a764-b132fb23f6ad)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465](https://github.com/kazibweyassin/kazibweyassin/assets/111964624/61222678-0365-4b42-8e87-106714436bf6)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/kazibweyassin/kazibweyassin/assets/111964624/a16f0c43-2722-473d-97f1-b801c37ef774)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b](https://github.com/kazibweyassin/kazibweyassin/assets/111964624/0d3df6bb-1d0d-4c08-9015-9eea565018bd)
+Welcome to my GitHub profile! I'm a passionate developer with interests in web development, open-source contributions, and learning new technologies. Here’s a bit more about me and what I do:
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning **React and Node.js**
+- 👯 I’m looking to collaborate on **open-source projects**
+- 💬 Ask me about **JavaScript, Python, and web development**
+- 📫 How to reach me: [kazibweyassin@example.com](mailto:kazibweyassin@example.com)
+- ⚡ Fun fact: I love playing chess and hiking.
+
+## 🔧 Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Kazibwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazibweyassin&show_icons=true&theme=radical)
+
+## 📂 Top Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kazibweyassin&repo=your-repo-name&theme=radical)](https://github.com/kazibweyassin/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kazibweyassin&repo=another-repo-name&theme=radical)](https://github.com/kazibweyassin/another-repo-name)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazibweyassin/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kazibweyassin)
+
+Thanks for visiting my profile! Have a great day! 😄
