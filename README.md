@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 - 🌱 I’m currently learning **React and Node.js**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, Python, and web development**
-- 📫 How to reach me: [kazibweyassin@example.com](mailto:kazibweyassin@example.com)
+- 📫 How to reach me: [kazibweyassin@example.com](mailto:kazibweusama@gmail.com)
 - ⚡ Fun fact: I love playing chess and hiking.
 
 ## 🔧 Technologies & Tools
