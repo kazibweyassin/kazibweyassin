@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 
 ## 📂 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kazibweyassin&repo=your-repo-name&theme=radical)](https://github.com/kazibweyassin/your-repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kazibweyassin&repo=another-repo-name&theme=radical)](https://github.com/kazibweyassin/another-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kazibweyassin&repo=your-repo-name&theme=radical)](https://github.com/kazibweyassin/alx-react.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kazibweyassin&repo=another-repo-name&theme=radical)](https://github.com/kazibweyassin/Alx-Movie-Streaming-Portfolio-Project.git)
 
 ## 📫 Connect with Me
 
