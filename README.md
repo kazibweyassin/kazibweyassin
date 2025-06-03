@@ -30,6 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kazibweyassin&repo=alx-react&theme=radical)](https://github.com/kazibweyassin/alx-react.git)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kazibweyassin&repo=Alx-Movie-Streaming-Portfolio-Project&theme=radical)](https://github.com/kazibweyassin/Alx-Movie-Streaming-Portfolio-Project.git)
 
+## 📫 I am open for work.
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazibweyassin/)
