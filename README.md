@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning *Solidity**
+- 🌱 I’m currently learning **Solidity**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, Python, and web development**
 - 📫 How to reach me: [yassinkazibwe.com](mailto:kazibweusama@gmail.com)
