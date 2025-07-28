@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a dedicated **Software Engineer** and entrep
 ## 🚀 About Me
 
 - 🌱 Exploring **Solidity** and the blockchain ecosystem.
-- 💼 Co-founder at **Beelio Technologies** | Founder of **AILES Travel Holdings**
+- 💼 Co-founder at **Beelio Technologies** 
 - 👯 Actively contributing to **open-source energy, web, and career-tech projects**
 - 💬 Ask me about **JavaScript, Python, or launching tech products in Africa**
 - 📫 Reach me: [kazibweusama@gmail.com](mailto:kazibweusama@gmail.com)
