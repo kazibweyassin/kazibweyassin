@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a dedicated **Software Engineer** and entrep
 - 💼 Co-founder at **Beelio Technologies** 
 - 👯 Actively contributing to **open-source energy, web, and career-tech projects**
 - 💬 Ask me about **JavaScript, Python, or launching tech products in Africa**
-- 📫 Reach me: [kazibweusama@gmail.com](mailto:kazibweusama@gmail.com)
+- 📫 Reach me: [kazibweusama@gmail.com](mailto:kazibweyassin@gmail.com)
 - ⚡ Fun fact: I love strategy games like chess and enjoy walking.
 
 ---
